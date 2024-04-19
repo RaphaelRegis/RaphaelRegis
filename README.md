@@ -1,7 +1,7 @@
-[![MasterHead](https://marketplace.canva.com/EAFUJKqqVZo/1/0/1600w/canva-black-and-white-playful-fun-simple-inspirational-quote-desktop-wallpaper-X37zAT_gATE.jpg)]
+![MasterHead](https://marketplace.canva.com/EAFUJKqqVZo/1/0/1600w/canva-black-and-white-playful-fun-simple-inspirational-quote-desktop-wallpaper-X37zAT_gATE.jpg)
 <h1 align="center">Hi 👋, I'm Raphael Regis de Araújo</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png">
+<img align="right" alt="Coding" width="400" src="https://tasbihdigital.com/wp-content/uploads/2022/07/White-Aesthetic-For-Computer-Wallpaper.jpg">
 
 - 🌱 I’m currently learning **the fullstack route. After a while studing backend development, going from Java all the way to Spring Boot and relational databases, it's time to invest in growing my repertoire with HTML5, CSS3 and Javascript, looking forward to technologies such as Angular and React.**
 
