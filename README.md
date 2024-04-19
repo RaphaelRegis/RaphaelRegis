@@ -1,4 +1,4 @@
-[![MasterHead]([https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://marketplace.canva.com/EAFUJKqqVZo/1/0/1600w/canva-black-and-white-playful-fun-simple-inspirational-quote-desktop-wallpaper-X37zAT_gATE.jpg)]
+[![MasterHead](https://marketplace.canva.com/EAFUJKqqVZo/1/0/1600w/canva-black-and-white-playful-fun-simple-inspirational-quote-desktop-wallpaper-X37zAT_gATE.jpg)]
 <h1 align="center">Hi 👋, I'm Raphael Regis de Araújo</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png">
